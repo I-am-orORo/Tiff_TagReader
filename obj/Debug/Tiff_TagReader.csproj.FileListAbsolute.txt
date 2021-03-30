@@ -1,0 +1,7 @@
+D:\Project\Tiff_TagReader\bin\Debug\Tiff_TagReader.exe.config
+D:\Project\Tiff_TagReader\bin\Debug\Tiff_TagReader.exe
+D:\Project\Tiff_TagReader\bin\Debug\Tiff_TagReader.pdb
+D:\Project\Tiff_TagReader\obj\Debug\Tiff_TagReader.csprojAssemblyReference.cache
+D:\Project\Tiff_TagReader\obj\Debug\Tiff_TagReader.csproj.CoreCompileInputs.cache
+D:\Project\Tiff_TagReader\obj\Debug\Tiff_TagReader.exe
+D:\Project\Tiff_TagReader\obj\Debug\Tiff_TagReader.pdb
